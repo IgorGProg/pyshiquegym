@@ -1,2 +1,2 @@
 # pyshiquegym
-Landing Page para academia!
+Landing Page para academia!!
